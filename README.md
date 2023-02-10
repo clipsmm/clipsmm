@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clipsmm
-- 👀 I’m interested in Laravel, Elixir, Vue, React, Flutter, C#
+- 👀 Laravel |> Elixir |> Vue |> React |> Flutter |> C#
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Payment System, eGovernement System 
+- 💞️ I’m looking to collaborate on Payment Systems, eGovernement System, ERPs 
 - 📫 How to reach me mitacliff@gmail.com, +2547029927218
 
 <!---
